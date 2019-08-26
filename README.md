@@ -20,7 +20,7 @@ This version of the SDK supports Analytics Builder 10.5.0 (October 2019).  To ma
 
 ## Documentation
 
-The guide to writing blocks is available in the [doc directory](doc/000-contents.md) and there is [ApamaDoc reference](doc/apamadoc/index.html) available.
+The guide to writing blocks is available in the [doc directory](doc/000-contents.md) and there is [ApamaDoc reference](https://imsiddhartha.github.io/block-sdk-preview/) available.
 
 ## Getting started
 
